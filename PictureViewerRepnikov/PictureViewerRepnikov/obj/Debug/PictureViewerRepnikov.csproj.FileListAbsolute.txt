@@ -1,0 +1,10 @@
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\bin\Debug\PictureViewerRepnikov.exe.config
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\bin\Debug\PictureViewerRepnikov.exe
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\bin\Debug\PictureViewerRepnikov.pdb
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.csprojAssemblyReference.cache
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.Form1.resources
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.Properties.Resources.resources
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.csproj.GenerateResource.cache
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.csproj.CoreCompileInputs.cache
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.exe
+C:\Users\29349086\source\repos\PictureViewerRepnikov\PictureViewerRepnikov\obj\Debug\PictureViewerRepnikov.pdb
